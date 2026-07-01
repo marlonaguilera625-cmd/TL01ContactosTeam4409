@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 public class DatabaseHelper extends SQLiteOpenHelper {
 
-    // Base de datos
+    // Base de datos aqui para conectar
     public static final String DATABASE_NAME = "contactos.db";
     public static final int DATABASE_VERSION = 2;
 
